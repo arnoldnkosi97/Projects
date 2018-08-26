@@ -1,2 +1,2 @@
-# Projects
-Some projects that i have done either in freelancing or in my spare time.
+# C# Project
+Project that i have done in my spare time.
